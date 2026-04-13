@@ -11,6 +11,7 @@
 
 ### 💻 Lenguajes  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -27,10 +28,14 @@
 
 ### 🗄️ Bases de datos  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
 
 ### 🐧 Linux y Terminal  
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![Zorin OS](https://img.shields.io/badge/-Zorin_OS-15A6F0?logo=zorin&logoColor=white&style=for-the-badge)
 ![Zsh](https://img.shields.io/badge/-Zsh-89E051?logo=gnubash&logoColor=white&style=for-the-badge)
 
 ### ⚙️ Herramientas de desarrollo  
@@ -43,6 +48,7 @@
 
 ### 🛡️ Seguridad y Otros  
 ![Parrot OS](https://img.shields.io/badge/-Parrot_OS-1F1F1F?logo=linux&logoColor=white&style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge)
 
 ---
 
