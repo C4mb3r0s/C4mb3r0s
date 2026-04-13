@@ -35,6 +35,7 @@
 ### 🐧 Linux y Terminal  
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
 ![Zorin OS](https://img.shields.io/badge/-Zorin_OS-15A6F0?logo=zorin&logoColor=white&style=for-the-badge)
 ![Zsh](https://img.shields.io/badge/-Zsh-89E051?logo=gnubash&logoColor=white&style=for-the-badge)
 
